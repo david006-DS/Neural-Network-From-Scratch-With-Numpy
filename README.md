@@ -20,3 +20,17 @@ src/
 ├── data_loader.py
 ├── neural_net.py
 ├── train.py
+
+## Neural Network Architecture
+
+Input Layer: 784 neurons  
+Hidden Layer 1: 128 neurons  
+Hidden Layer 2: 64 neurons  
+Output Layer: 10 neurons
+
+Activation:
+- ReLU
+- Softmax
+
+Loss:
+- Cross Entropy
